@@ -1,0 +1,15 @@
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Meu Código\.NET\Projetos\Contrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
